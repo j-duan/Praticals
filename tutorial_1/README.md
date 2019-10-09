@@ -21,7 +21,7 @@ You are now ready to install these packages with any one of computers in LG04 an
 
 `module available`
 
-and hit enter button, you will be able to see `python/3` has been pre-installed in this computer. You will need to load the `python/3` by typing in the following in your terminal
+and hit enter button, you will be able to see `python/3` has been pre-installed in this computer. You will need to load `python/3` by typing in the following in your terminal
 
 `module load python` 
 
