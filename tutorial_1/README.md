@@ -41,7 +41,7 @@ Afterwards, install `jupyter notebook` by typing in the following
 
 `pip install jupyter notebook --user`
 
-which installs the software in `/home/staff/duanj/.local/bin`. After the installation is done, go to `.local` directory
+which installs the software in `/home/staff/duanj/.local/bin`. After the installation is done, go to `.local/bin` directory
 
 `cd .local/bin` 
 
