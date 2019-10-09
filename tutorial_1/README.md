@@ -49,6 +49,6 @@ and then type in
 
 `./jupyter-notebook`
 
-`./` means you want to execute `jupyter-notebook` under this directory.  Copy the link displayed in the terminal and paste it into your firefox browser. Done all installations. 
+`./` means you want to execute `jupyter-notebook` under this directory. To see Jupyter notebook user inference, copy the web address displayed in the terminal and paste it into your firefox browser. Done all installations. 
 
 Finally, you can do all operations in this web-based Jupyter. First you need to navigate to the notebook developed for this lecture and click to open it in Jupyter. Have fun of programming!
