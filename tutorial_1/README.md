@@ -43,7 +43,7 @@ Afterwards, install `jupyter notebook` by typing in the following
 
 which installs the software in `/home/staff/duanj/.local/bin`. After the installation is done, go to `.local` directory
 
-`cd .local` 
+`cd .local/bin` 
 
 and then type in
 
