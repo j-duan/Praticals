@@ -51,4 +51,4 @@ and then type in
 
 `./` means you want to execute `jupyter-notebook` under this directory. To see Jupyter notebook user inference, copy the web address displayed in the terminal and paste it into your firefox browser. Done all installations. 
 
-Finally, you can do all operations in this web-based Jupyter. First you need to navigate to the notebook developed for this lecture and click to open it in Jupyter. Have fun of programming!
+Next, you need to download `lab1_python.ipynb` host in this Github and save it somewhwere in your desktop. Inside Jupyter you navigate to this file and click to open it in Jupyter. You are now read to start the contents in the tutorial. Have fun of programming!
